@@ -1,0 +1,64 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Projeto",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Projeto::@6890427a1f51a3e7e1df",
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f4aee23b73028299c2ef.json
+					"jsonFile" : "target-Projeto-Debug-8839dd45be7a99800452.json",
+========
+					"jsonFile" : "target-Projeto-Debug-1723d974efad05105ed5.json",
+>>>>>>>> 836128f469d0aa15e4ac248ad6132bd9f5ef7b2b:cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-fcf7d5804a95acacfbe7.json
+					"name" : "Projeto",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/TrabalhoAED/cmake-build-debug",
+		"source" : "C:/TrabalhoAED"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

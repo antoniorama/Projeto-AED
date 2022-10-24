@@ -1,0 +1,139 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "MinGW Makefiles"
+		},
+		"paths" : 
+		{
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-16T16-09-53-0831.json
+			"cmake" : "/snap/clion/209/bin/cmake/linux/bin/cmake",
+			"cpack" : "/snap/clion/209/bin/cmake/linux/bin/cpack",
+			"ctest" : "/snap/clion/209/bin/cmake/linux/bin/ctest",
+			"root" : "/snap/clion/209/bin/cmake/linux/share/cmake-3.23"
+========
+			"cmake" : "C:/Program Files/JetBrains/CLion 2022.2.3/bin/cmake/win/bin/cmake.exe",
+			"cpack" : "C:/Program Files/JetBrains/CLion 2022.2.3/bin/cmake/win/bin/cpack.exe",
+			"ctest" : "C:/Program Files/JetBrains/CLion 2022.2.3/bin/cmake/win/bin/ctest.exe",
+			"root" : "C:/Program Files/JetBrains/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23"
+>>>>>>>> 836128f469d0aa15e4ac248ad6132bd9f5ef7b2b:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-14T11-06-18-0705.json
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 23,
+			"patch" : 2,
+			"string" : "3.23.2",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-16T16-09-53-0831.json
+			"jsonFile" : "codemodel-v2-f4aee23b73028299c2ef.json",
+========
+			"jsonFile" : "codemodel-v2-fcf7d5804a95acacfbe7.json",
+>>>>>>>> 836128f469d0aa15e4ac248ad6132bd9f5ef7b2b:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-14T11-06-18-0705.json
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 4
+			}
+		},
+		{
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-16T16-09-53-0831.json
+			"jsonFile" : "cache-v2-a8f33a47bad07ec69e4f.json",
+========
+			"jsonFile" : "cache-v2-0dbedfa13a1942add17d.json",
+>>>>>>>> 836128f469d0aa15e4ac248ad6132bd9f5ef7b2b:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-14T11-06-18-0705.json
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		{
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-16T16-09-53-0831.json
+			"jsonFile" : "cmakeFiles-v1-de631ec00c68dcd76a39.json",
+========
+			"jsonFile" : "cmakeFiles-v1-1f99f1e5f97ce9de38cd.json",
+>>>>>>>> 836128f469d0aa15e4ac248ad6132bd9f5ef7b2b:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-14T11-06-18-0705.json
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "toolchains-v1-bb01ae2d8c007163053b.json",
+			"kind" : "toolchains",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"cache-v2" : 
+		{
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-16T16-09-53-0831.json
+			"jsonFile" : "cache-v2-a8f33a47bad07ec69e4f.json",
+========
+			"jsonFile" : "cache-v2-0dbedfa13a1942add17d.json",
+>>>>>>>> 836128f469d0aa15e4ac248ad6132bd9f5ef7b2b:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-14T11-06-18-0705.json
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		"cmakeFiles-v1" : 
+		{
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-16T16-09-53-0831.json
+			"jsonFile" : "cmakeFiles-v1-de631ec00c68dcd76a39.json",
+========
+			"jsonFile" : "cmakeFiles-v1-1f99f1e5f97ce9de38cd.json",
+>>>>>>>> 836128f469d0aa15e4ac248ad6132bd9f5ef7b2b:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-14T11-06-18-0705.json
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		},
+		"codemodel-v2" : 
+		{
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-16T16-09-53-0831.json
+			"jsonFile" : "codemodel-v2-f4aee23b73028299c2ef.json",
+========
+			"jsonFile" : "codemodel-v2-fcf7d5804a95acacfbe7.json",
+>>>>>>>> 836128f469d0aa15e4ac248ad6132bd9f5ef7b2b:cmake-build-debug/.cmake/api/v1/reply/index-2022-10-14T11-06-18-0705.json
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 4
+			}
+		},
+		"toolchains-v1" : 
+		{
+			"jsonFile" : "toolchains-v1-bb01ae2d8c007163053b.json",
+			"kind" : "toolchains",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	}
+}
